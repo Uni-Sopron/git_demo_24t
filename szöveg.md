@@ -1,0 +1,1 @@
+valami nagyon hasznos szöveg

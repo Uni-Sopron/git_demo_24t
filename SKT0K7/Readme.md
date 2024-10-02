@@ -10,7 +10,7 @@
 
 2. ### Virtuális gép létrehozása
     1. Virtualboxon belül kattintsunk a "New" gombra. A gombot tartalmazó menüt az alkalmazásban felül, középen találjuk.
-    ![new](images/new.png)
+    ![new](Images/new.png)
 
     2. Virtuális gép beállítása
     * Name andy Operating System 
@@ -20,12 +20,12 @@
         * "Type"-nál Linux-ot kell választani
         * "Version"-nél pedig Debian 11 Bullseye (32-bit)-et válasszunk
 
-    ![settings1](images/vmsettings1.png)
+    ![settings1](Images/vmsettings1.png)
     * Hardware
         * "Base memory" - Meg kell adnunk, hogy mennyi RAM-ot használjon fel. Érdemes a zöld vonalon belül maradni.
         * "Processors" - Meg kell adnunk, hogy hány magot kapjon a virtuális gép, szintén érdemes a zöld vonalon belül maradni.
 
-    ![settings2](images/vmsettings2.png)
+    ![settings2](Images/vmsettings2.png)
 
     * Hard Disk
         * Az utolsó beállítási menüpont a Hard Disk, itt három választási lehetőségünk van: 
@@ -37,52 +37,52 @@
         * "Pre-allocate Full Size" - előre le lehet foglaltatni a tárhelymennyiséget amit megadtunk.
     * Ha ezekkel megvagyunk, kattinsunk a "Finish" gombra.
 
-    ![settings3](images/vmsettings3.png)
+    ![settings3](Images/vmsettings3.png)
 
 ## Virtuális gép futtatása 
 
 1. Lemezkép csatolása
     * "Storage" menüpontnál kattintsunk az "[Optical Drive] Empty"-re, majd "Choose Disk Drive". Tallózzuk a lemezképet.
-    ![optdrive](images/optdrive.png)
+    ![optdrive](Images/optdrive.png)
 
 2. Gép futtatása
     * Kattintsunk a "Start" Gombra a gép futtatásához.
-    ![new](images/new.png)
+    ![new](Images/new.png)
 
 ## Telepítés
 1. Futtatás után fel és le nyilakkal irányítva, menjünk az "Install" gombra és nyomjunk Entert
-![install](images/install.png)
+![install](Images/install.png)
 
 2. Billentyűzet - nyilakkal vagy Tabbal navigálva keressük meg a Hungarian billentyűzetkiosztást és nyomjunk Entert
-![keyboard](images/keyboard.png)
+![keyboard](Images/keyboard.png)
 
 3. Particionálás - válasszuk ki a képek alapján
-![partition](images/partition.png)
-![partition2](images/partition2.png)
-![partition3](images/partition3.png)
-![partition4](images/partition4.png)
-![partition5](images/partition5.png)
+![partition](Images/partition.png)
+![partition2](Images/partition2.png)
+![partition3](Images/partition3.png)
+![partition4](Images/partition4.png)
+![partition5](Images/partition5.png)
 
 4. Várjuk meg a telepítést
 5. Telepítsük a bootloadert
-![bootloader](images/bootloader.png)
-![bootloader2](images/bootloader2.png)
+![bootloader](Images/bootloader.png)
+![bootloader2](Images/bootloader2.png)
 6. Continue
-![complete](images/instcomplete.png)
+![complete](Images/instcomplete.png)
 
 ## Ha befejeződött a telepítés, elindul a Raspberry Pi OS
 ### Telepítés
 1. Nyomjunk "Next"-re
-![rasp1](images/rasp1.png)
+![rasp1](Images/rasp1.png)
 
 2. Válasszuk ki az országot és időzónát
-![country](images/country.png)
+![country](Images/country.png)
 
 3. Hozzunk létre felhasználót
-![user](images/cruser.png)
+![user](Images/cruser.png)
 
 4. Frissítsük a software-t
-![software](images/updsoftware.png)
+![software](Images/updsoftware.png)
 
 5. Állítsuk le a gépet
 6. Vegyük ki a lemezmeghajtóból a lemezképet

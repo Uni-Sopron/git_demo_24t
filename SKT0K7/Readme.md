@@ -64,9 +64,11 @@
 ![partition5](Images/partition5.png)
 
 4. Várjuk meg a telepítést
+
 5. Telepítsük a bootloadert
 ![bootloader](Images/bootloader.png)
 ![bootloader2](Images/bootloader2.png)
+
 6. Continue
 ![complete](Images/instcomplete.png)
 

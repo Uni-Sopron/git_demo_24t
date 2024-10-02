@@ -10,7 +10,7 @@
 
 2. ### Virtuális gép létrehozása
     1. Virtualboxon belül kattintsunk a "New" gombra. A gombot tartalmazó menüt az alkalmazásban felül, középen találjuk.
-    ![new](images/new.png)
+    ![new](Images/new.png)
 
     2. Virtuális gép beállítása
     * Name andy Operating System 

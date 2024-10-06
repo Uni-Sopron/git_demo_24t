@@ -29,7 +29,7 @@
         6. CONFIGURE OPTIONS --> ">>INSTALL Proceed with installation" -->" STRIPE-
         NO REDUNDANCY" --# ezt követően ki fog adni egy "[] ada0 VBOX HARDDISK" -et
         melyet a SPACE gomb megnyomásával tudsz abszolválni majd ütsz egy ENTERT.
-       7. Megfogja kérdezni hogy biztos hogy TÖRÖLNI akarjuk-e a lemezt?
+       7. Megfogja kérdezni hogy biztosan TÖRÖLNI akarjuk-e a lemezt?
             Nyugodtan üssünk a "YES" opcióra.
         8. Kérni fog tölünk egy új jelszót és annak megismétlését mindegyik megadása után üssünk egy ENTERT.
         9. Kérni fogja az időzónát természetesen szintén személyes preferenciának

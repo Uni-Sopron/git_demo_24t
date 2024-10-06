@@ -80,4 +80,4 @@ Ha sikeresen megadtad belépési adataid akkor:
           ,'  ,-----'   |          
           `--{__________)          
 
-          Amennyiben eljutottál idáig jó szórakozást kívánok ! :D
+          Amennyiben eljutottál idáig, jó szórakozást kívánok ! :D

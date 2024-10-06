@@ -49,7 +49,7 @@
         és válasszuk a "REBOOT-ot".
 
         Ezt követően kapcsoljuk ki a virtulis gépet és csatoljuk le az iso-fájlt az optikai meghajtóról (konfigurálás--> tároló--> ...iso fájl leválasztása)
- 
+---------------------------------------------------------------------------------- 
 
  Első lépések:
      Indítsuk újra a gépünket majd válasszuk a boot menüpontból a "multi user boot"
@@ -58,8 +58,7 @@
 
 Ha sikeresen megadtad belépési adataid akkor:
     felhasznaloneved@hostneved: -nak kell látszódnia
-
-
+#--------------------------------------------------------------------------------#    
                ,        ,         
                /(        )`        
                \ \___   / |        
@@ -80,4 +79,4 @@ Ha sikeresen megadtad belépési adataid akkor:
           ,'  ,-----'   |          
           `--{__________)          
 
-          Amennyiben eljutottál idáig, jó szórakozást kívánok ! :D
+          Gratulálok sikeresen telepítetted az Op.rendszered ! Jó szórakozást kívánok ! :D

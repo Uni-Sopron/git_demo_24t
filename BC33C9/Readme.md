@@ -1,5 +1,3 @@
-Edubuntu# Edubuntu Telepítése Oracle VirtualBox-ra - Lépésről Lépésre Útmutató
-
 ## Előkészületek
 
 1. **VirtualBox telepítése:**

@@ -41,9 +41,7 @@ Telepítés megkezdése.
 Miután a telepítés befejeződött, távolítsd el a CD/DVD meghajtót a virtuális gépből (a „Beállítások” > „Adatlemezek” menüben) és indítsd újra a virtuális gépet.
 <h2>10. Első beállítások és frissítések</h2>
 Az első indításkor bejelentkezés után futtasd a frissítéseket:
-bash
-Kód másolása
-sudo swupd update
+bash,sudo swupd update<br>.
 Most már készen is állsz a Clear Linux használatára!
 
 

@@ -1,5 +1,4 @@
 # Az Arch  Linux telepítési útmutatója
-![Az Arch Linux logója](arch_is.png)
 ### Teendők live imageben
 A live image angol billentyűzetkiosztással indul, a magyarhoz írjuk be a ***loadkeys hu*** parancsot.
 Én kábeles netet használtam, így néhány lépéssel megkönnyítettem a dolgomat, wifis csatlakozás esetén azonban az alábbi parancsokat kéne követni: 
@@ -13,7 +12,6 @@ A live image angol billentyűzetkiosztással indul, a magyarhoz írjuk be a ***l
 7. exit
 
 Ha ezzel elkészültünk, az ***archinstall*** parancs következik. A parancs beírása után egy ablak jelenik meg előttünk sok beállítható lehetőséggel.
-![Az Arch Linux logója](archinstall-2.webp)
 
 ### Én a következő beállításokat végeztem el:
 
@@ -45,4 +43,3 @@ Ezek után szükségünk lesz még a <mark>**pacman csomagkezelőre**</mark>, a 
 >Az interneten keresgélhetünk, miket lehet a *csomagnév* helyére beírni, innentől kezdve ez csak rajtunk múlik.
 
 Az Arch Linux telepítéséhez segítségül vettem az alábbi YouTube videót: [**Link a videóhoz**](https://www.youtube.com/watch?v=flI1njGcBuU)
-

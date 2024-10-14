@@ -22,3 +22,5 @@ Mikor ez megvolt, bootolhattam EasyOS-ben, ahol már csak a setupot
 kellett megcsinálnom, ahol beállítottam a felhasználót.
 Egy újraindítás után személyre szabtam a billentyűzetet, a nyelvet, a
 tűzfalat, illetve az időt, és ezzel be is fejeződött a telepítést és a setup.
+## Virtuális gépre telepítés
+Nulladik lépésként le kell tölteni az EasyOS lemezképfájlját.

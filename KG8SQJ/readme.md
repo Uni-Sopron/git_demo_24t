@@ -79,6 +79,7 @@
      kérni fogja tőlünk a login-t (felhasználóneved) és a jelszavad
 
 Ha sikeresen megadtad belépési adataid akkor:
+('Kepek/30.png')
     felhasznaloneved@hostneved: -nak kell látszódnia
 #--------------------------------------------------------------------------------#    
                ,        ,         

@@ -18,7 +18,7 @@ Hozzá adjuk bővítményként a Visual Studio Code-hoz a Pythont.
 
 ![Python](./kepek/vskep4.png)
 
-Megnyitjuk a terminált hogy letöltsük a pythont amit az alábbi 4 parancs beírásával tehetünk meg.
+Megnyitjuk a terminált hogy letöltsük a pythont amit az alábbi 4 parancs beírásával tehetünk meg:
 1. sudo apt update && sudo apt upgrade -y 
 2. sudo apt install software-properties-common
 3. sudo add-apt-repository ppa:deadsnakes/ppa

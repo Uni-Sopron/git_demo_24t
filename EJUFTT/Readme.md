@@ -37,9 +37,9 @@ Telepítési típus (törlés vagy egyedi partíciók).
 Felhasználói fiók beállítása.
 Telepítés megkezdése.
 
-<h2>9. Rendszerindítás</h2>
+<h2>8. Rendszerindítás</h2>
 Miután a telepítés befejeződött, távolítsd el a CD/DVD meghajtót a virtuális gépből (a „Beállítások” > „Adatlemezek” menüben) és indítsd újra a virtuális gépet.
-<h2>10. Első beállítások és frissítések</h2>
+<h2>9. Első beállítások és frissítések</h2>
 Az első indításkor bejelentkezés után futtasd a frissítéseket:
 bash,sudo swupd update<br>.
 Most már készen is állsz a Clear Linux használatára!

@@ -22,3 +22,8 @@ Mikor ez megvolt, bootolhattam EasyOS-ben, ahol már csak a setupot
 kellett megcsinálnom, ahol beállítottam a felhasználót.
 Egy újraindítás után személyre szabtam a billentyűzetet, a nyelvet, a
 tűzfalat, illetve az időt, és ezzel be is fejeződött a telepítést és a setup.
+## Virtuális gépre telepítés
+Nulladik lépésként le kell tölteni az EasyOS lemezképfájlját.
+Ez után hozzá kell adni a PATH-hez a VirtualBox mappáját. Ezt a <SET PATH=%PATH%;C:\Program Files\Oracle\VirtualBox> paranccsal tudjuk megcsinálni.
+Amikor ez megvolt, a Parancssorba a következőt kell beírni: <VBoxManage convertdd easy-6.3-amd64.img easy.vdi>
+Ez létrehoz egy .vdi fájlt, amit már a VirtualBox is képes kezelni és beállíthatjuk mint az oprendszer SATA portját. Ezzel már indíthatjuk is az oprendszert, majd a felhasználó és a jelszó beállítása után már csak szeméyre kell szabnunk.

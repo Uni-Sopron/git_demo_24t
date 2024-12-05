@@ -8,6 +8,10 @@ A **New** gombra kattintva tudunk egy új virtuális gépet létrehozni!
 ![Alap beállítások VirtualBox](virtualbox1.png)
 Először a **Name and Operating System** kategórán belül végezzük el a szükséges beállításokat! A *Name* részben adunk nevet a virtuális gépünknek, ami bármi lehet, nincsenek karakter hossz vagy speciális karakter megkötések! A *Folder* részt hagyhatjuk ahogy van! Az *ISO Image* részben kiválasztjuk az [Endeavour oldaláról](https://endeavouros.com/) letöltött ISO fájlt. A *Type* részben a **Linux** operációs rendszert válasszuk ki, majd a többi kategórát úgy hagyjuk!
 
+![EFI](virtual_box_EFI.png)
+
+**Az EFI opciót mindenképpen pipáljuk be, mert különben nem fog működni megfelelően a telepítés!**
+
 ![Hardware kategória VirtualBox](virtualbox2.png)
 A **Base Memory** részben adjuk meg a RAM-ot a virtuális gépünknek, ami a példában 4096 MB vagyis 4GB, ami tökéletesen elég lesz. Alatta a *Processors* részben adjuk meg a CPU magok számát, ami a példán 2 db.
 
@@ -29,44 +33,44 @@ A **Storage** kategóriában kattintsunk rá az ISO fájlra, majd pedig pipálju
 Ezek után kattintjunk az **OK** gombra, majd pedig fent középen a **Start** gombra, ls el is indíthatjuk az OP rendszerünket!
 
 ![Endeavour indítás](endeavour_inditas.png)
-A képen látható lehetőség kiválasztása után nyomjon egy *Enter*-t!
+A képen látható lehetőség kiválasztása után nyomjunk egy *Enter*-t!
 
 ![Endeavour telepítője](endeavour_telepito.png)
-Miután elindult az OP rendszer, felugrik a telepítő! Itt válassza ki a *Start the Installer* lehetőséget!
+Miután elindult az OP rendszer, felugrik a telepítő! Itt válasszuk ki a *Start the Installer* lehetőséget!
 
 ![Endeavour telepítő metódus](endeavour_telepito_metodus.png)
-Itt válassza az **Offline** opciót!
+Itt válasszuk az **Offline** opciót!
 
 ![Endeavour nyelv](endeavour_nyelv_valasztas.png)
-Itt válassza ki a nyelvet!
+Itt válasszuk ki a nyelvet!
 
 ![Endeavour régió](endeavour_regio_valasztas.png)
-Itt válassza ki a régiót!
+Itt válasszuk ki a régiót!
 
 ![Endeavour billentyűzet](endeavour_billentyuzet_valasztas.png)
-Itt válassza ki a billentyűzetet!
+Itt válasszuk ki a billentyűzetet!
 
 ![Endeavour GRUB](endeavour_GRUB.png)
-Itt válassza ki a **GRUB** lehetőséget!
+Itt válasszuk ki a **GRUB** lehetőséget!
 
 ![Endeavour particionálás](endeavour_particiok.png)
-Itt válassza ki a **Manuális particionálás** lehetőséget!
+Itt válasszuk ki a **Manuális particionálás** lehetőséget!
 
 ![Endeavour MBR](endeavour_MBR.png)
-Itt válassza ki a **Master Boot Record** lehetőséget!
+Itt válasszuk ki a **Master Boot Record** lehetőséget!
 
 ![Endeavour root](endeavour_root.png)
-A **Létrehozás** gombra való kattintás után először adja meg a gyökér könyvtár méretét, ami az én esetemben 25 GB! Csatolási pontnak a **/** opciót válassza, majd **Jelölők** részben a *root* opciót válassza!
+A **Létrehozás** gombra való kattintás után először adjuk meg a gyökér könyvtár méretét, ami az én esetemben 25 GB! Csatolási pontnak a **/** opciót válassza, majd **Jelölők** részben a *root* opciót válassza!
 
 ![Endeavour swap](endeavour_swap.png)
-A **Létrehozás** gombra való kattintás után először adja meg a swap méretét, ami az én esetemben 4 GB! A **Jelölők** részben a *swap* opciót válassza, a **Fájlrendszer** kategóriában pedig a *linuxswap* opciót!
+A **Létrehozás** gombra való kattintás után először adjuk meg a swap méretét, ami az én esetemben 4 GB! A **Jelölők** részben a *swap* opciót válasszuk, a **Fájlrendszer** kategóriában pedig a *linuxswap* opciót!
 
 ![Endeavour felhasználó létrehozása](endeavour_felhasznalo.png)
-Itt töltse ki a megadott mezőket!
+Itt töltsük ki a megadott mezőket!
 
-Ezek után kattintson a telepítés gombra, majd pedig várjon, amig elkészül a telepítés. Ezek után indítsa újra a rendszert!
+Ezek után kattintsunk a telepítés gombra, majd pedig várjunk, amig elkészül a telepítés. Ezek után indítsuk újra a rendszert!
 
 ![ISO fájl lecsatolása](ISO_fajl_lecsatolas.png)
-Miután a rendszert bezárta, ismét menjen a **Storage** kategóriába a VirtualBox-on belül, és kattintson jobb egérgombbal az ISO fájlra, ahol megjelenik a *Remove Attachment* gomb. Kattintson rá, és csatolja le az ISO fájlt!
+Miután a rendszert bezártuk, ismét menjünk a **Storage** kategóriába a VirtualBox-on belül, és kattintsunk jobb egérgombbal az ISO fájlra, ahol megjelenik a *Remove Attachment* gomb. Kattintsunk rá, és csatoljuk le az ISO fájlt!
 
-Ezek után bármikor el tudja indítani a virtuális gépet!
+Ezek után bármikor el tudjuk indítani a virtuális gépet!
